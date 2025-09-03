@@ -1,2 +1,2 @@
 # Hanoi-Tower-Game
-Hanoi Tower Game C++
+Hanoi Tower Game C++ with SFML
